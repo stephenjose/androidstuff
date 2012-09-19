@@ -1,0 +1,4 @@
+.settings/*
+*.tmp
+.project
+.buildpath
